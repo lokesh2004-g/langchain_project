@@ -16,6 +16,7 @@ A chatbot that uses YouTube video transcripts to answer user queries with LangCh
 - OpenAI API key (or other LLMs)
 
 ## future work 
+- making a user interface 
 - chrome pluging 
 - making it complex as of now it is very simple 
 - try to make is better 
