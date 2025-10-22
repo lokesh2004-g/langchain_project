@@ -13,7 +13,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 
 ###################api key###################################################### 
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_KYLBcokLdKHpBqiivOUtqUCTviVpeyipS"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "your token id"
 
 ##########################adding yt video transcript by using api #######################
 
