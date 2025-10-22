@@ -15,7 +15,7 @@ A chatbot that uses YouTube video transcripts to answer user queries with LangCh
 - youtube-transcript-api
 - OpenAI API key (or other LLMs)
 
-##future work 
-chrome pluging 
-making it complex as of now it is very simple 
-try to make is better 
+## future work 
+- chrome pluging 
+- making it complex as of now it is very simple 
+- try to make is better 
