@@ -13,7 +13,7 @@ A chatbot that uses YouTube video transcripts to answer user queries with LangCh
 - Python 3.x
 - LangChain
 - youtube-transcript-api
-- OpenAI API key (or other LLMs)
+- hugging face (or other LLMs)
 
 ## future work 
 - making a user interface 
